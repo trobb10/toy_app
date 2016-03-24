@@ -1,1 +1,1 @@
-# Technology Task 1 & 2
+# Technology Tasks 1 & 2
