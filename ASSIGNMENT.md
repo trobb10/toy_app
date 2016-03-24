@@ -1,4 +1,4 @@
-# Technology Task 1: Creating a Tutorial
+# Technology Task 1 & 2: Creating a Tutorial & Presentation
 
 Your group will write a tutorial for the special topic assigned to your group from Proposal #1.
 
