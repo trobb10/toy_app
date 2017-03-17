@@ -26,5 +26,5 @@ The grading of your team's work will include the following criterion (amongst ot
 * Readme text file (see below) that also contains all of the references you used to research your material. Using only a single reference will receive a point deduction
 
 ## Submission
-The graders will retrieve your work (readme plus your solution) from your team's Github private repository provided for you under the course's organization cse3901-osu-2015au. Include a readme text file which contains the names of each project manager and states what each team member specifically contributed to the final submission. For the latter, only report on contributions that made it into to the final solution. Also indicate which team members participated in proof reading a section.
+The graders will retrieve your work (readme plus your solution) from your team's Github private repository provided for you under the course's organization cse3901-osu-2017sp. Include a readme text file which contains the names of each project manager and states what each team member specifically contributed to the final submission. For the latter, only report on contributions that made it into to the final solution. Also indicate which team members participated in proof reading a section.
 
