@@ -28,7 +28,7 @@ The grading of your team's work will include the following criterion (amongst ot
 * Readme text file (see below) that also contains all of the references you used to research your material. Using only a single reference will receive a point deduction
 
 ## Submission
-Individual submission: There is no individual submission for this assignment. There is no peer evaluation to complete.
+<p><em>Individual submission</em>: There is no individual submission for this assignment. There is no peer evaluation to complete.</p>
 
 Group submission: The graders will retrieve your work (readme plus your solution) from your team's Github private repository provided for you under the course's organization cse3901-osu-2017au. All team member's work must eventually be merged into a final committed version in Git. The readme contains the names of each project manager and states what each team member specifically contributed to the final submission. For the latter, only report on contributions that made it into to the final solution. Clearly indicate which team members performed testing and to which portions of the solutions. Also include any instructions to the grader as to how to execute the code.
 
@@ -36,7 +36,7 @@ You will submit your project by simply creating a git tag called "tutorial_submi
 
 That is:
 
-$ git tag -a tutorial_submission -m "completed project"
-$ git push origin submission
+<pre><code>$ git tag -a tutorial_submission -m "completed project"
+$ git push origin submission</code></pre>
 
-IMPORTANT: Your repository must include a README text file containing the name of the project manager(s) and a description of each team member's specific contributions to the final submission.
+<p><strong><em>IMPORTANT</em></strong>: Your repository must include a README text file containing the name of the project manager(s) and a description of each team member's specific contributions to the final submission.</p>
