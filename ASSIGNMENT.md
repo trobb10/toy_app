@@ -12,9 +12,11 @@ Choose anyone as a project manager to coordinate for this assignment. The intend
 
 The format of your tutorial should be a web site. You may use Middleman to generate the web site, along with associated technologies (e.g., Markdown, ERb, YAML). You can also use a syntax highlighting library such as coderay, rouge, or highlight.js. Web-design frameworks such as Bootstrap or Foundation, however, are not permitted.
 
-Do NOT simply copy/paste text from a third party source. **This will receive no credit!** All writing must be authored solely by your team members and written from scratch. The point of this assignment is to give you an opportunity to improve on your writing skills.
+The main purpose of this assignment is for all of you to improve on your technical writing skills. This is what you are being graded on. Do NOT simply copy/paste text from a third party source. **This will receive no credit!** All writing must be authored solely by your team members and written from scratch. The tutorial must be designed well by your group. Again, it should NOT be a patch work of material extracted from other sources and appended together. Do carefully think about what level of Bloom's taxonomy you are writing towards when writing a section.
 
-Your team must ensure that the there is an equal subdivision of the work load. Indicate this by including the original author of a the tutorial. ALL team members are responsible for quality assurance, e.g. proof reading the entire document. All team members are responsible for proper integration of the sections which will require substantial communication between the project managers and the group as a whole.
+Your team must ensure that there is an equal division of the work load. Indicate this by including the original author of each portion of the tutorial. ALL team members are responsible for quality assurance, e.g. proof reading the entire document. All team members are responsible for proper integration of the sections which will require substantial communication between the project managers and the group as a whole.
+
+Do not wait until the last minute to complete this project as **GOOD** can take time and will require many revisions by **ALL** of your group members to arrive at the final (polished) document.
 
 The grading of your team's work will include the following criterion (amongst other possible factors) and submission of materials as listed below:
 
@@ -26,5 +28,15 @@ The grading of your team's work will include the following criterion (amongst ot
 * Readme text file (see below) that also contains all of the references you used to research your material. Using only a single reference will receive a point deduction
 
 ## Submission
-The graders will retrieve your work (readme plus your solution) from your team's Github private repository provided for you under the course's organization cse3901-osu-2017sp. Include a readme text file which contains the names of each project manager and states what each team member specifically contributed to the final submission. For the latter, only report on contributions that made it into to the final solution. Also indicate which team members participated in proof reading a section.
+Individual submission: There is no individual submission for this assignment. There is no peer evaluation to complete.
 
+Group submission: The graders will retrieve your work (readme plus your solution) from your team's Github private repository provided for you under the course's organization cse3901-osu-2017au. All team member's work must eventually be merged into a final committed version in Git. The readme contains the names of each project manager and states what each team member specifically contributed to the final submission. For the latter, only report on contributions that made it into to the final solution. Clearly indicate which team members performed testing and to which portions of the solutions. Also include any instructions to the grader as to how to execute the code.
+
+You will submit your project by simply creating a git tag called "tutorial_submission" and then pushing this new tag to your shared repository. (A tag is basically an immutable branch.)
+
+That is:
+
+$ git tag -a tutorial_submission -m "completed project"
+$ git push origin submission
+
+IMPORTANT: Your repository must include a README text file containing the name of the project manager(s) and a description of each team member's specific contributions to the final submission.
